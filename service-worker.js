@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vezdekod_08_hack/precache-manifest.add5513ce44e80541b38d10efac07a23.js"
+  "/vezdekod_08_hack/precache-manifest.4e3f8013cf43d35d366ba086a644d75f.js"
 );
 
 self.addEventListener('message', (event) => {
