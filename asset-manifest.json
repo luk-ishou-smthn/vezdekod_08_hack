@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/vezdekod_08_hack/static/js/main.c36b9d9c.chunk.js",
-    "main.js.map": "/vezdekod_08_hack/static/js/main.c36b9d9c.chunk.js.map",
+    "main.js": "/vezdekod_08_hack/static/js/main.cacd1ce1.chunk.js",
+    "main.js.map": "/vezdekod_08_hack/static/js/main.cacd1ce1.chunk.js.map",
     "runtime-main.js": "/vezdekod_08_hack/static/js/runtime-main.135a4e29.js",
     "runtime-main.js.map": "/vezdekod_08_hack/static/js/runtime-main.135a4e29.js.map",
     "static/css/2.09e62520.chunk.css": "/vezdekod_08_hack/static/css/2.09e62520.chunk.css",
     "static/js/2.4754b04a.chunk.js": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js",
     "static/js/2.4754b04a.chunk.js.map": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js.map",
     "index.html": "/vezdekod_08_hack/index.html",
-    "precache-manifest.4e3f8013cf43d35d366ba086a644d75f.js": "/vezdekod_08_hack/precache-manifest.4e3f8013cf43d35d366ba086a644d75f.js",
+    "precache-manifest.eb6f985295b244b91c4dd581f89a4f1d.js": "/vezdekod_08_hack/precache-manifest.eb6f985295b244b91c4dd581f89a4f1d.js",
     "service-worker.js": "/vezdekod_08_hack/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/vezdekod_08_hack/static/css/2.09e62520.chunk.css.map",
     "static/js/2.4754b04a.chunk.js.LICENSE.txt": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.135a4e29.js",
     "static/css/2.09e62520.chunk.css",
     "static/js/2.4754b04a.chunk.js",
-    "static/js/main.c36b9d9c.chunk.js"
+    "static/js/main.cacd1ce1.chunk.js"
   ]
 }

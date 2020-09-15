@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "104727ccefcdedcec484aec15b8bf026",
+    "revision": "73f9084b6f556e4e66dde3081e16e604",
     "url": "/vezdekod_08_hack/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4aba471bc14aa83b7bf",
-    "url": "/vezdekod_08_hack/static/js/main.c36b9d9c.chunk.js"
+    "revision": "aa5097cdcdd47e4c9eca",
+    "url": "/vezdekod_08_hack/static/js/main.cacd1ce1.chunk.js"
   },
   {
     "revision": "157f3fffc976b94ece03",
