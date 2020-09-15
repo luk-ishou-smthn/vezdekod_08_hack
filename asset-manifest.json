@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/vezdekod_08_hack/static/js/main.9f665ce0.chunk.js",
-    "main.js.map": "/vezdekod_08_hack/static/js/main.9f665ce0.chunk.js.map",
+    "main.js": "/vezdekod_08_hack/static/js/main.c11022ba.chunk.js",
+    "main.js.map": "/vezdekod_08_hack/static/js/main.c11022ba.chunk.js.map",
     "runtime-main.js": "/vezdekod_08_hack/static/js/runtime-main.135a4e29.js",
     "runtime-main.js.map": "/vezdekod_08_hack/static/js/runtime-main.135a4e29.js.map",
     "static/css/2.09e62520.chunk.css": "/vezdekod_08_hack/static/css/2.09e62520.chunk.css",
-    "static/js/2.4754b04a.chunk.js": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js",
-    "static/js/2.4754b04a.chunk.js.map": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js.map",
+    "static/js/2.a30079f3.chunk.js": "/vezdekod_08_hack/static/js/2.a30079f3.chunk.js",
+    "static/js/2.a30079f3.chunk.js.map": "/vezdekod_08_hack/static/js/2.a30079f3.chunk.js.map",
     "index.html": "/vezdekod_08_hack/index.html",
-    "precache-manifest.837431b169ddbdeb0e2d711cd9d266c2.js": "/vezdekod_08_hack/precache-manifest.837431b169ddbdeb0e2d711cd9d266c2.js",
+    "precache-manifest.cd45f4054dfec8b51d0ce2152e4d32cb.js": "/vezdekod_08_hack/precache-manifest.cd45f4054dfec8b51d0ce2152e4d32cb.js",
     "service-worker.js": "/vezdekod_08_hack/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/vezdekod_08_hack/static/css/2.09e62520.chunk.css.map",
-    "static/js/2.4754b04a.chunk.js.LICENSE.txt": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js.LICENSE.txt"
+    "static/js/2.a30079f3.chunk.js.LICENSE.txt": "/vezdekod_08_hack/static/js/2.a30079f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.135a4e29.js",
     "static/css/2.09e62520.chunk.css",
-    "static/js/2.4754b04a.chunk.js",
-    "static/js/main.9f665ce0.chunk.js"
+    "static/js/2.a30079f3.chunk.js",
+    "static/js/main.c11022ba.chunk.js"
   ]
 }

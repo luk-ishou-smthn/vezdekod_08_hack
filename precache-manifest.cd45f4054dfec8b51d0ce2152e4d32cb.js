@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe135a246816b99e31a51390926e5605",
+    "revision": "158df9ae856ad67c0a57d6c201888dea",
     "url": "/vezdekod_08_hack/index.html"
   },
   {
-    "revision": "76fafa9a76c719544550",
+    "revision": "ea388394e646bee368de",
     "url": "/vezdekod_08_hack/static/css/2.09e62520.chunk.css"
   },
   {
-    "revision": "76fafa9a76c719544550",
-    "url": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js"
+    "revision": "ea388394e646bee368de",
+    "url": "/vezdekod_08_hack/static/js/2.a30079f3.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/vezdekod_08_hack/static/js/2.4754b04a.chunk.js.LICENSE.txt"
+    "url": "/vezdekod_08_hack/static/js/2.a30079f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a07f588a570608343972",
-    "url": "/vezdekod_08_hack/static/js/main.9f665ce0.chunk.js"
+    "revision": "abe1a1c07853a5b5339c",
+    "url": "/vezdekod_08_hack/static/js/main.c11022ba.chunk.js"
   },
   {
     "revision": "157f3fffc976b94ece03",
