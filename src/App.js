@@ -26,13 +26,15 @@ class App extends React.Component {
 			user: null
 		};
 
+
+
 	}
 
 	componentDidMount() {
         bridge.send('VKWebAppGetUserInfo', {})
-            .then((user) => {
-                this.setState({ user });
-            });
+           .then((user) => {
+               this.setState({ user });
+           });
 	}
 
 	getImage = async () => {
@@ -82,7 +84,7 @@ class App extends React.Component {
 						{
 							!!image &&
 							<Div style={{ textAlign: 'center' }}>
-                                <img src={ image } alt="remote file" />
+                                <img src={ image } alt="remote file" referrerPolicy="no-referrer"/>
 							</Div>
 						}
                     </Group>
